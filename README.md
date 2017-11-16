@@ -1,2 +1,2 @@
 # Asset_ThridCharenge
-三回目のJavaFXを用いた資産管理ツール
+三回目のJavaFXを用いた資産管理ツール作成に挑戦したときの記録
